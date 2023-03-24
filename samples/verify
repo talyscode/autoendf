@@ -1,0 +1,5 @@
+#!/bin/bash
+../bin/autobnl -file n-Nb093.tendl.2021
+../bin/autoprepro -file n-Nb093.tendl.2021
+../bin/autonjoy -file n-Nb093.tendl.2021
+../bin/autofudge -file n-Nb093.tendl.2021
