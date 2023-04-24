@@ -3,7 +3,7 @@
 AUTOENDF is a collection of bash shell scripts for the automatic testing and processing of ENDF-6 formatted nuclear data libraries with the BNL checking codes CHECKR, FIZCON, PSYCHE and INTER, the PREPRO checking and processing codes, and the NJOY processing code. The scripts in AUTOENDF will produce input files, run the codes and automatically analyze the output. This diagnosis is obtained by scanning the various source codes for printing of warnings and errors.
 
 ## Documentation and reference
-The user manual for AUTOENDF can be found here: [AUTOENDF User Manual (pdf)](https://github.com/arjankoning1/autoendf/doc/tools.pdf).
+The user manual for AUTOENDF can be found here: [AUTOENDF User Manual (pdf)](https://github.com/arjankoning1/autoendf/tree/master/doc/tools.pdf).
 The reference to be used for AUTOENDF is
 
 A.J. Koning, D. Rochman, J.-Ch. Sublet, N. Dzysiuk, M. Fleming, and S. van der Marck, *TENDL: Complete Nuclear Data Library for innovative Nuclear Science and Technology*, Nuclear Data Sheets 155,1 (2019).
